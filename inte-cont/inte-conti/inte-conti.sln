@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inte-conti", "inte-conti\inte-conti.csproj", "{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7F3F4DF-36DC-4710-95DA-145436316B5E}
+	EndGlobalSection
+EndGlobal
