@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30011.22
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inte-conti", "inte-conti\inte-conti.csproj", "{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inte-cont-UnitTest", "inte-cont-UnitTest\inte-cont-UnitTest.csproj", "{544FEB7B-3349-4CAF-9E8D-159063F24A10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C390303B-AB0A-4A3D-8BCF-0D4A37BAA7BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{544FEB7B-3349-4CAF-9E8D-159063F24A10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{544FEB7B-3349-4CAF-9E8D-159063F24A10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{544FEB7B-3349-4CAF-9E8D-159063F24A10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{544FEB7B-3349-4CAF-9E8D-159063F24A10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
